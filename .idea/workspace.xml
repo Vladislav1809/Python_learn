@@ -28,7 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.sort_users (1)">
+  <component name="RunManager" selected="Python.sort_users">
     <configuration name="20.08.2021_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Geek_Brains_repo_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,18 +113,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sort_users (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Geek_Brains_repo_hw" />
+    <configuration name="sort_users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\asus\PycharmProjects\pythonprogect\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort_users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -158,14 +158,13 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.sort_users" />
-      <item itemvalue="Python.sort_users (1)" />
       <item itemvalue="Python.add_sale" />
       <item itemvalue="Python.20.08.2021_1" />
       <item itemvalue="Python.20.08.2021_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sort_users (1)" />
+        <item itemvalue="Python.sort_users" />
         <item itemvalue="Python.20.08.2021_2" />
         <item itemvalue="Python.20.08.2021_1" />
         <item itemvalue="Python.add_sale" />
