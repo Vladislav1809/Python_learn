@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ba42afc-bcb7-483e-81b0-6379357d145a" name="Changes" comment="programm for number 7*" />
+    <list default="true" id="2ba42afc-bcb7-483e-81b0-6379357d145a" name="Changes" comment="upd vers files">
+      <change afterPath="$PROJECT_DIR$/.idea/Geek_Brains_repo_hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inf_about_users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uusers.scv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,11 +163,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.sort_users" />
-      <item itemvalue="Python.add_sale" />
       <item itemvalue="Python.20.08.2021_1" />
       <item itemvalue="Python.20.08.2021_2" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.add_sale" />
+      <item itemvalue="Python.sort_users" />
     </list>
     <recent_temporary>
       <list>
@@ -279,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629994711133</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="upd vers files">
+      <created>1630147470761</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1630147470761</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +301,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="lesson_6" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -307,6 +333,7 @@
     <MESSAGE value="upd file" />
     <MESSAGE value="upd files for numb 6, 7" />
     <MESSAGE value="programm for number 7*" />
-    <option name="LAST_COMMIT_MESSAGE" value="programm for number 7*" />
+    <MESSAGE value="upd vers files" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd vers files" />
   </component>
 </project>
